@@ -1,0 +1,52 @@
+  body{
+    background-size: cover;
+  }
+  .header
+  {
+    background-color: rgb(252, 85, 8);
+    color: white;
+    font-size: 30px;
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px rgb(255, 254, 254);
+  }
+  .header2
+  {
+    background: rgb(255, 255, 255) ; 
+    border-radius: 20px; 
+    color: black;
+    padding: 10;
+    box-shadow:5px 5px 5px grey;
+    margin: 15px;
+    margin-left: 200px;
+    margin-right: 200px;
+  }
+  .text
+  {
+    font-size: 18px ;
+  }
+  .object
+  {
+    box-shadow:2px 2px 5px red;
+    font-size: 20px;
+  }
+  .rate{
+    box-shadow: 2px 2px 5px red;
+    font-size: 20px;
+  }
+  .copy_right_footer{
+    width: 100%;
+    text-align: center;
+    bottom: 0;
+    position: fixed;
+    background-color: rgb(245, 52, 4);
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+  }
+  canvas{
+    border-style: solid;
+    border-color:white;
+    border-width: 5px;
+    border-radius: 40px;
+    margin-top: 170px;
+  }
